@@ -1,0 +1,11 @@
+C:\Users\xman\source\repos\TryAndCatch\TryAndCatch\obj\Debug\TryAndCatch.csprojAssemblyReference.cache
+C:\Users\xman\source\repos\TryAndCatch\TryAndCatch\obj\Debug\TryAndCatch.frmRegistration.resources
+C:\Users\xman\source\repos\TryAndCatch\TryAndCatch\obj\Debug\TryAndCatch.frmConfirmation.resources
+C:\Users\xman\source\repos\TryAndCatch\TryAndCatch\obj\Debug\TryAndCatch.Properties.Resources.resources
+C:\Users\xman\source\repos\TryAndCatch\TryAndCatch\obj\Debug\TryAndCatch.csproj.GenerateResource.cache
+C:\Users\xman\source\repos\TryAndCatch\TryAndCatch\obj\Debug\TryAndCatch.csproj.CoreCompileInputs.cache
+C:\Users\xman\source\repos\TryAndCatch\TryAndCatch\bin\Debug\TryAndCatch.exe.config
+C:\Users\xman\source\repos\TryAndCatch\TryAndCatch\bin\Debug\TryAndCatch.exe
+C:\Users\xman\source\repos\TryAndCatch\TryAndCatch\bin\Debug\TryAndCatch.pdb
+C:\Users\xman\source\repos\TryAndCatch\TryAndCatch\obj\Debug\TryAndCatch.exe
+C:\Users\xman\source\repos\TryAndCatch\TryAndCatch\obj\Debug\TryAndCatch.pdb
